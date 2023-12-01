@@ -1,25 +1,24 @@
 # RandomStr.com GitHub README.md
 
-```markdown
 # RandomStr.com
 
-Welcome to the official GitHub repository for RandomStr.com, a versatile tool for generating random strings, passwords, IDs, emails, and more. This repository contains the source code and documentation for our web-based services.
+Welcome to the official GitHub repository for [RandomStr.com](https://randomstr.com), your go-to tool for generating random strings, passwords, IDs, emails, and more. This repository hosts the source code and documentation for our web-based services.
 
 ## Features
 
-- **Random String Generator**: Generate strings with custom lengths and character sets.
-- **ID Generator**: Create unique and secure identification numbers.
-- **Password Generator**: Generate strong and secure passwords.
-- **Email Generator**: Create random and professional email addresses.
-- **Decision Making Tools**: 'Yes or No' wheel, 'Flip a Coin', and 'Pictionary Word' generator.
+- [**Random String Generator**](https://randomstr.com): Generate customizable random strings.
+- [**ID Generator**](https://randomstr.com/id-generator): Create unique, secure identification numbers.
+- [**Password Generator**](https://randomstr.com/password-generator): Generate strong, secure passwords.
+- [**Email Generator**](https://randomstr.com/email-generator): Create random, professional email addresses.
+- [**Decision Making Tools**](https://randomstr.com/yes-or-no-wheel-generator): 'Yes or No' wheel, 'Flip a Coin', and 'Pictionary Word' generator.
 
 ## Getting Started
 
-Clone the repository to get started:
+Clone the repository:
 
 ```bash
 git clone https://github.com/randomstr/randomstr.git
-```
+
 
 ## Usage
 
